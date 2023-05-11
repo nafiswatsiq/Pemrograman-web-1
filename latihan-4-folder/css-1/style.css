@@ -1,0 +1,64 @@
+.section-1 #header {
+  background: #00ccff;
+  height: 10%;
+  font-size: 1.5em;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.section-1 #sidebar {
+  background: #99ccff;
+  float: left;
+  height: 400px;
+  width: 30%;
+  font-size: 1.5em;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.section-1 #content {
+  background: #9999ff;
+  float: right;
+  width: 70%;
+  height: 400px;
+  font-size: 1.5em;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.section-1 #footer {
+  background: #3399ff;
+  clear: both;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.section-2 .block h1,
+.section-2 .block p {
+  background: orange;
+}
+
+.section-2 .height h1,
+.section-2 .height p {
+  background: orange;
+  width: 200px;
+  height: 75px;
+}
+
+.section-2 .inline span {
+  background: orange;
+}
+
+.section-2 .inline-2 span {
+  background: orange;
+  width: 100px;
+  height: 50px;
+}
+
+.section-2 .inline-block span {
+  background: orange;
+  width: 100px;
+  height: 50px;
+  display: inline-block;
+}
+/*# sourceMappingURL=style.css.map */
